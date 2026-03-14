@@ -283,7 +283,7 @@ export default function Home({ setShowScheduling }: HomeProps) {
                 <div>
                   <p className="text-[10px] uppercase tracking-widest text-[#1A261B]/40 font-bold mb-4">Horários</p>
                   <p className="text-sm text-[#1A261B]/60">Segunda a Sexta: 09:00 — 19:00</p>
-                  <p className="text-sm text-[#1A261B]/60">Sábado: 09:00 — 13:00</p>
+                  <p className="text-sm text-[#1A261B]/60">Sábado: 10:00 — 20:00</p>
                 </div>
               </div>
             </motion.div>
