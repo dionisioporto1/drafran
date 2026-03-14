@@ -132,7 +132,7 @@ function Footer() {
           </span>
         </div>
         <p className="text-[10px] text-[#1A261B]/30 uppercase tracking-widest">
-          © 2024 Todos os direitos reservados.
+          © 2026 Todos os direitos reservados.
         </p>
         <div className="flex gap-6">
           <a href="https://www.instagram.com/drafrancyeri/" target="_blank" rel="noopener noreferrer">
